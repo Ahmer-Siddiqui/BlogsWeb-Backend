@@ -17,35 +17,35 @@ const userData = [
         content:
           "Forex trading involves exchanging one currency for another in the global market. It's one of the most liquid markets in the world, with a daily trading volume of over $6 trillion. This blog is designed to introduce beginners to the fundamentals of Forex, including currency pairs, exchange rates, and how to manage risk. Understanding these basics can help you take your first steps into the world of Forex trading with confidence.",
         blogImage:
-          "https://cdn.pixabay.com/photo/2018/10/11/15/54/financial-3747879_1280.jpg",
+          "https://media.licdn.com/dms/image/C4E12AQHSPCXv0B89Yg/article-cover_image-shrink_720_1280/0/1582961107903?e=2147483647&v=beta&t=CL6p4lJo0rxUTjyiQj_jfC6XRUIPgrOIRKwwasuLxDc",
       },
       {
         heading: "Cryptocurrency: The Future of Digital Assets",
         content:
           "Cryptocurrency has revolutionized the way we think about money. With its decentralized nature and potential for high returns, it's become a popular choice for traders and investors worldwide. This blog explores the basics of cryptocurrency, including how it works, popular currencies like Bitcoin and Ethereum, and strategies for trading in the crypto market. We also cover the risks and rewards of investing in digital assets.",
         blogImage:
-          "https://cdn.pixabay.com/photo/2023/06/15/14/58/bitcoin-8090979_1280.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGGAc7Vnx_9uPB2HD0mKF-BSv5XZQzmHyLYQ&s",
       },
       {
         heading: "Mastering Technical Analysis in Forex Trading",
         content:
           "Technical analysis is a key tool for Forex traders, helping to predict market movements by analyzing historical price data. In this blog, we explore various technical indicators such as moving averages, Relative Strength Index (RSI), and Fibonacci retracements. Learn how to combine these indicators to build your trading strategy and enhance your decision-making process.",
         blogImage:
-          "https://cdn.pixabay.com/photo/2023/04/12/09/12/stock-7928936_1280.jpg",
+          "https://liquidityfinder.com/_next/image?url=https%3A%2F%2Flfapi.liquidityfinder.com%2Fassets%2Ff7889e36-456c-441d-9a9b-fa3bcf4f71b0&w=3840&q=75",
       },
       {
         heading: "Risk Management in Crypto Trading",
         content:
           "Risk management is crucial in trading, especially in the volatile world of cryptocurrencies. This blog discusses various risk management strategies, including position sizing, stop-loss orders, and portfolio diversification. Learn how to protect your investments while maximizing your trading potential in the unpredictable crypto market.",
         blogImage:
-          "https://cdn.pixabay.com/photo/2021/08/28/01/46/blockchain-6585206_1280.jpg",
+          "https://assets.staticimg.com/reaper-image/651568ba54e41a0001466d56_The%207%20Unique%20Challenges%20in%20Cryptocurrency%20Risk%20Management%201600%20900.png",
       },
       {
         heading: "The Psychology of Forex Trading: How to Control Emotions",
         content:
           "One of the biggest challenges Forex traders face is controlling emotions. Fear and greed can cloud judgment and lead to poor decisions. This blog offers practical tips on how to maintain a calm and disciplined mindset when trading, including techniques for managing stress, staying patient, and avoiding impulsive decisions.",
         blogImage:
-          "https://cdn.pixabay.com/photo/2019/08/05/15/38/stock-4396819_1280.jpg",
+          "https://www.t4trade.com/wp-content/uploads/2023/05/forex-trading-emotions-psychology.png",
       },
     ],
   },
@@ -57,7 +57,7 @@ const userData = [
     email: "ayeshaiqbal123@gmail.com",
     password: "ayesha123@",
     userIntro:
-      "Ahmer Aqeel is a passionate software developer with over five years of experience in building dynamic web applications. Specializing in front-end technologies like React and Vue.js, he also has a strong background in back-end development using Node.js and Python. Ahmer is dedicated to writing clean, maintainable code and continuously improving his skills through new challenges and projects. When he's not coding, he enjoys exploring the latest trends in tech and contributing to open-source communities. With a keen eye for detail and problem-solving, John is committed to creating seamless user experiences.",
+      "Ayesha Iqbal is a passionate software developer with over five years of experience in building dynamic web applications. Specializing in front-end technologies like React and Vue.js, he also has a strong background in back-end development using Node.js and Python. Ahmer is dedicated to writing clean, maintainable code and continuously improving his skills through new challenges and projects. When he's not coding, he enjoys exploring the latest trends in tech and contributing to open-source communities. With a keen eye for detail and problem-solving, John is committed to creating seamless user experiences.",
     phoneNo: 3132992339,
     workingDetail:
       "12:00 to 18:00 Monday to Friday (Excluding Saturday and Sunday)",
@@ -103,7 +103,7 @@ const userData = [
   },
   {
     profilePicture:
-      "https://cdn.pixabay.com/photo/2023/07/23/13/01/career-6132900_1280.jpg",
+      "https://cdn.pixabay.com/photo/2019/11/26/12/43/islam-4654505_1280.jpg",
     firstName: "Iqra",
     lastName: "Hafeez",
     email: "iqra123@gmail.com",
@@ -118,21 +118,21 @@ const userData = [
         content:
           "Machine learning is transforming industries, and this blog is aimed at beginners. We explore the basics of machine learning and how it can be used in real-world applications.",
         blogImage:
-          "https://media.istockphoto.com/id/494346874/photo/abstract-cyber-network-with-glowing-lines.jpg?s=1024x1024&w=is&k=20&c=8y-VeWLt-4l7wYRUAt2czIlX3MIyFcS9E21BwOkV9xE=",
+          "https://media.istockphoto.com/id/539953610/photo/machine-learning-to-improve-artificial-intelligence-ability-for-predictions.jpg?s=1024x1024&w=is&k=20&c=YT94BN3S94NGaMEnCDimGVjOyWhW3W5KZZGaTJXGzTE=",
       },
       {
         heading: "Building Web Apps with Django",
         content:
           "Django is a high-level Python framework for building powerful web applications quickly. In this blog, we dive deep into creating web apps using Django and its features.",
         blogImage:
-          "https://media.istockphoto.com/id/864122998/photo/developer-working-on-the-computer.jpg?s=1024x1024&w=is&k=20&c=zAAwqQsmBQ_eIj9KpzZ5vs3D0FqkIs6gRfwktJ9jgfA=",
+          "https://media.istockphoto.com/id/1244089840/vector/online-banking-app-landing-page-smart-wallet-concept-with-credit-debit-card-payment.jpg?s=1024x1024&w=is&k=20&c=Geb3w8QE3v9fVo69IGLPJlplb6FOlfb7W5OUvJWH7iI=",
       },
     ],
   },
 
   {
     profilePicture:
-      "https://cdn.pixabay.com/photo/2023/07/28/15/55/currency-1060360_1280.jpg",
+      "https://cdn.pixabay.com/photo/2016/01/14/02/48/girl-1139277_640.jpg",
     firstName: "Aqsa",
     lastName: "Manzoor",
     email: "aqsamanzoor123@gmail.com",
@@ -148,35 +148,35 @@ const userData = [
         content:
           "Understanding the structure of the Forex market is crucial for any trader. This blog explains how the Forex market operates, what currency pairs are, and how major economic events affect exchange rates. It's an essential read for those looking to build a solid foundation in Forex trading.",
         blogImage:
-          "https://cdn.pixabay.com/photo/2023/01/11/17/34/forex-7245864_1280.jpg",
+          "https://media.istockphoto.com/id/1060244122/photo/financial-charts-at-digital-display.jpg?s=1024x1024&w=is&k=20&c=NXl41vkYtFK8M2aJAqL5RLHIJWlKaWbWzyU_0e0B3zw=",
       },
       {
         heading: "Is Bitcoin Still a Good Investment?",
         content:
           "Bitcoin has been a highly volatile asset since its inception, with dramatic price swings. This blog looks at the current state of Bitcoin as an investment, analyzing factors like market trends, institutional adoption, and its role in a diversified portfolio. We discuss the risks and potential rewards of investing in Bitcoin in the present market environment.",
         blogImage:
-          "https://cdn.pixabay.com/photo/2023/08/12/10/10/bitcoin-7537522_1280.jpg",
+          "https://media.istockphoto.com/id/1403184005/vector/bitcoin-hodl-holder-who-buy-bitcoin-or-crypto-currency-for-long-term-investment-crypto.jpg?s=1024x1024&w=is&k=20&c=FFusXju3mxMIJIa9Hzhhwx2SreLSH13qrXJ0Taw_030=",
       },
       {
         heading: "Understanding Blockchain: The Backbone of Crypto",
         content:
           "Blockchain technology is what powers cryptocurrencies like Bitcoin and Ethereum. This blog delves into the basics of blockchain, how it works, and its applications beyond cryptocurrency. Understanding blockchain is key for anyone looking to trade or invest in digital currencies.",
         blogImage:
-          "https://cdn.pixabay.com/photo/2023/09/06/12/50/blockchain-8633830_1280.jpg",
+          "https://media.istockphoto.com/id/1310640722/photo/abstract-array-cube-digital-data.jpg?s=1024x1024&w=is&k=20&c=q_FpNUCOONYN1YXo7q2wMxOHj9qKm2TsdL55ObQVVIU=",
       },
       {
         heading: "Day Trading in the Forex Market: Tips and Tricks",
         content:
           "Day trading is a popular strategy among Forex traders looking to capitalize on short-term price movements. In this blog, we cover the fundamentals of day trading, including tips on managing your trades, understanding market hours, and utilizing technical analysis to make quick decisions.",
         blogImage:
-          "https://cdn.pixabay.com/photo/2020/03/06/01/34/stock-4909299_1280.jpg",
+          "https://media.istockphoto.com/id/1367620777/photo/business-investment-concept-forex-trading-2022.jpg?s=1024x1024&w=is&k=20&c=C8GDRQuopPqDbemxIrHGF3JYtG5dH76ebrXRS0pPygw=",
       },
       {
         heading: "How to Avoid Common Crypto Trading Mistakes",
         content:
           "Crypto trading can be risky, especially for beginners. This blog covers common mistakes that traders make in the crypto space, such as falling for FOMO (Fear of Missing Out), overtrading, and neglecting risk management. Learn how to avoid these pitfalls and become a more successful trader.",
         blogImage:
-          "https://cdn.pixabay.com/photo/2022/12/02/21/47/bitcoin-7720575_1280.jpg",
+          "https://media.istockphoto.com/id/1410854102/photo/stock-exchange-consultant-business-consultant-holding-laptop-with-white-screen-remote.jpg?s=1024x1024&w=is&k=20&c=YniUDN8ufcS-VViSvHkAyLqKnKHX0rYa6FRHIGmvoYM=",
       },
     ],
   },
