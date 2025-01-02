@@ -1,4 +1,3 @@
-// console.clear()
 class ApiError extends Error {
   constructor(
     statusCode,
