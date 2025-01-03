@@ -57,7 +57,7 @@ const userData = [
     email: "ayeshaiqbal123@gmail.com",
     password: "ayesha123@",
     userIntro:
-      "Ayesha Iqbal is a passionate software developer with over five years of experience in building dynamic web applications. Specializing in front-end technologies like React and Vue.js, he also has a strong background in back-end development using Node.js and Python. Ahmer is dedicated to writing clean, maintainable code and continuously improving his skills through new challenges and projects. When he's not coding, he enjoys exploring the latest trends in tech and contributing to open-source communities. With a keen eye for detail and problem-solving, John is committed to creating seamless user experiences.",
+      "Ayesha Iqbal is a passionate software developer with over five years of experience in building dynamic web applications. Specializing in front-end technologies like React and Vue.js, she also has a strong background in back-end development using Node.js and Python. Ayesha is dedicated to writing clean, maintainable code and continuously improving her skills through new challenges and projects. When she's not coding, she enjoys exploring the latest trends in tech and contributing to open-source communities. With a keen eye for detail and problem-solving, Ayesha is committed to creating seamless user experiences.",
     phoneNo: 3132992339,
     workingDetail:
       "12:00 to 18:00 Monday to Friday (Excluding Saturday and Sunday)",
@@ -109,7 +109,7 @@ const userData = [
     email: "iqra123@gmail.com",
     password: "iqra123@",
     userIntro:
-      "Iqra is a software engineer with expertise in Python, Django, and machine learning. He enjoys tackling challenging problems and building robust applications.",
+      "Iqra is a software engineer with expertise in Python, Django, and machine learning. She enjoys tackling challenging problems and building robust applications.",
     phoneNo: 3156784532,
     workingDetail: "08:00 to 16:00 Monday to Friday",
     blogs: [
